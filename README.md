@@ -14,33 +14,34 @@ I am building KaizenPMA, a Telegram chatbot that will:
 
 
 Project Progress
-	1.	Setup:
+1.	Setup:
 	•	Installed Anaconda Spyder as the development environment.
 	•	Created a Python virtual environment and installed required libraries:
 	•	python-telegram-bot
 	•	openai
 	•	sqlite3
-	2.	Bot Creation:
+2.	Bot Creation:
 	•	Created the bot using Telegram’s BotFather and obtained the API token:
 
- 	3.	Development:
+3.	Development:
 	•	Wrote Python scripts to:
 	•	Start the bot (/start command).
 	•	Accept CAPS-R data in a structured format (/input command).
 	•	Summarize the data (/summary command).
 	•	Respond to user queries with OpenAI GPT-4 (/ask command).
-	4.	Challenges:
+4.	Challenges:
 	•	Researching how to host the bot for 24/7 availability (e.g., Replit, Heroku).
 	•	Integrating AI seamlessly into the bot for real-time assistance.
 	•	Securing API credentials for deployment.
 
  Next Steps
-	1.	Enhance Features:
+
+1.	Enhance Features:
 	•	Improve CAPS-R input flexibility.
 	•	Add more conversational abilities using OpenAI API.
-	2.	Deployment:
+2.	Deployment:
 	•	Deploy the bot on a reliable platform like Replit or Heroku for continuous operation.
-	3.	Document Learning:
+3.	Document Learning:
 	•	Sharing progress and insights through GitHub updates.
 
 
