@@ -51,4 +51,10 @@ Project Progress
 	•	Use the project to deepen my understanding of AI, Python development, and automation tools.
 
 
+ https://us2.make.com/414092/scenarios/806478/edit
+
+ https://www.youtube.com/watch?v=QhpW4DTKfKA
+ 
+
+
  
